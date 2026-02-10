@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "brands": {
+    "acexxon": {
+      "display_name": "Acexxon",
+      "update_prices": false
+    },
+    "acl": {
+      "display_name": "ACL",
+      "update_prices": false
+    },
+    "aem": {
+      "display_name": "AEM",
+      "update_prices": false
+    },
+    "akrapovic": {
+      "display_name": "Akrapovic",
+      "update_prices": false
+    },
+    "alpha": {
+      "display_name": "Alpha Competition",
+      "update_prices": false
+    },
+    "apexi": {
+      "display_name": "Apexi",
+      "update_prices": false
+    },
+    "apr": {
+      "display_name": "APR",
+      "update_prices": false
+    },
+    "armaspeed": {
+      "display_name": "Armaspeed",
+      "update_prices": false
+    },
+    "armytrix": {
+      "display_name": "Armytrix",
+      "update_prices": false
+    },
+    "arp": {
+      "display_name": "ARP",
+      "update_prices": false
+    },
+    "athena": {
+      "display_name": "Athena",
+      "update_prices": false
+    },
+    "autotech": {
+      "display_name": "Autotech",
+      "update_prices": false
+    },
+    "csf": {
+      "display_name": "CSF",
+      "update_prices": false
+    },
+    "cts": {
+      "display_name": "CTS",
+      "update_prices": false
+    },
+    "dba": {
+      "display_name": "DBA",
+      "update_prices": false
+    },
+    "deatschwerks": {
+      "display_name": "DeatschWerks",
+      "update_prices": false
+    },
+    "dinan": {
+      "display_name": "Dinan",
+      "update_prices": false
+    },
+    "dixcel": {
+      "display_name": "Dixcel",
+      "update_prices": false
+    },
+    "eibach": {
+      "display_name": "Eibach",
+      "update_prices": false
+    },
+    "enkei": {
+      "display_name": "Enkei",
+      "update_prices": false
+    },
+    "eventuri": {
+      "display_name": "Eventuri",
+      "update_prices": false
+    },
+    "ferrea": {
+      "display_name": "Ferrea",
+      "update_prices": false
+    },
+    "forge": {
+      "display_name": "Forge",
+      "update_prices": false
+    },
+    "goodridge": {
+      "display_name": "Goodridge",
+      "update_prices": false
+    },
+    "gruppe": {
+      "display_name": "Gruppe",
+      "update_prices": false
+    },
+    "hks": {
+      "display_name": "HKS",
+      "update_prices": false
+    },
+    "injen": {
+      "display_name": "Injen",
+      "update_prices": false
+    },
+    "itg": {
+      "display_name": "ITG",
+      "update_prices": false
+    },
+    "je": {
+      "display_name": "JE",
+      "update_prices": false
+    },
+    "k1": {
+      "display_name": "K1",
+      "update_prices": false
+    },
+    "mishimoto": {
+      "display_name": "Mishimoto",
+      "update_prices": false
+    },
+    "ngk": {
+      "display_name": "NGK",
+      "update_prices": false
+    },
+    "oem": {
+      "display_name": "OEM",
+      "update_prices": false
+    },
+    "p3": {
+      "display_name": "P3",
+      "update_prices": false
+    },
+    "pipercross": {
+      "display_name": "Pipercross",
+      "update_prices": false
+    },
+    "pracworks": {
+      "display_name": "PracWorks",
+      "update_prices": false
+    },
+    "prosport": {
+      "display_name": "Prosport",
+      "update_prices": false
+    },
+    "racingline": {
+      "display_name": "Racingline",
+      "update_prices": false
+    },
+    "rays": {
+      "display_name": "Rays",
+      "update_prices": false
+    },
+    "scorpion": {
+      "display_name": "Scorpion",
+      "update_prices": false
+    },
+    "seibon": {
+      "display_name": "Seibon",
+      "update_prices": false
+    },
+    "ssr": {
+      "display_name": "SSR",
+      "update_prices": false
+    },
+    "tarox": {
+      "display_name": "Tarox",
+      "update_prices": false
+    },
+    "tein": {
+      "display_name": "Tein",
+      "update_prices": false
+    },
+    "turbosmart": {
+      "display_name": "Turbosmart",
+      "update_prices": false
+    },
+    "ultra": {
+      "display_name": "Ultra",
+      "update_prices": false
+    },
+    "vht": {
+      "display_name": "VHT",
+      "update_prices": false
+    },
+    "whiteline": {
+      "display_name": "Whiteline",
+      "update_prices": false
+    },
+    "zrp": {
+      "display_name": "ZRP",
+      "update_prices": false
+    }
+  }
+}

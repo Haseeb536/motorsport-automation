@@ -1,0 +1,11 @@
+gspread
+requests
+google-auth
+google-api-python-client
+pandas
+openpyxl
+selenium
+seleniumbase
+openai
+streamlit
+streamlit-autorefresh

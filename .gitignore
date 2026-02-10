@@ -1,0 +1,42 @@
+# Secrets — never commit these
+credentials.json
+.env
+.env.*
+!.env.example
+
+# Local outputs and scraped data
+*.csv
+*.xlsx
+*.xls
+*.log
+output.log
+scraper_detailed.log
+scraper_errors.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups and large dumps
+shopify_backup/
+scrape_output/
+url_lookup_output/
+*.json.backup
+
+# One-off local helpers (not part of the public toolkit)
+tools/copy_from_workspace.py
