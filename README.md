@@ -135,13 +135,7 @@ brand_price_config.py
 
 ---
 
-## Security notes
 
-- **Do not commit** `credentials.json`, `.env`, CSV/XLSX exports, or log files  
-- All tokens and passwords should live in **environment variables** (see `.env.example`)  
-- This repo is sanitized for public sharing — keep your private working copy separate if you have local-only scripts or data
-
----
 
 ## Requirements
 
